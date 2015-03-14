@@ -7,7 +7,7 @@
 
 <body>
 <?php
-define("_name","Bebo",true); //constants are global everywhere in script
+define("_name","Hello Bebo",true); //constants are global everywhere in script
 echo _Name;
 ?>
 
